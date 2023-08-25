@@ -1,1 +1,3 @@
 # Tele-Com-Churn
+
+This repository contains a comprehensive study on customer churn using Kaggle's historical telecom customer data. The project's primary goals are to uncover characteristics of churned customers and develop a predictive model for targeted marketing. The SAP outlines essential steps, including data preprocessing to handle missing values and outliers, as well as defining the analysis population for reliable results. The plan relies on correlation analyses to assess variable relationships, with emphasis on those correlated with the target variable. Additional considerations encompass data normalization, transformation, model development, evaluation, and sensitivity analysis. 
